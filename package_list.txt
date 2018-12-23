@@ -13,7 +13,6 @@ bind-tools
 binutils
 bison
 btrfs-progs
-bumblebee
 bzip2
 coreutils
 cryptsetup
